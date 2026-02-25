@@ -26,6 +26,7 @@ salary
 
 **⚙️ Key Functionalities**
 ➕ Add new Department to Company
+
 👤 Add new Employee to specific Department
 📋 Display all Departments
 👥 Display Employees of a Department
