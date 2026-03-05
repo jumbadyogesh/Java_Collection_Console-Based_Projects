@@ -1,0 +1,65 @@
+
+
+
+
+==============================================# Comparable : ===============================================
+
+
+
+Q1. Store and Sort Student Marks
+Create a Student class with fields: name and marks.
+Store multiple students in an ArrayList.
+Sort them by marks using Comparable.
+Print the sorted list.
+
+👉 Explanation:
+ This tests your ability to:
+Implement Comparable<Student> for sorting.
+Use Collections.sort(list) on an ArrayList of objects.
+
+
+Q2. Sort Employees by Salary
+Create an Employee class with fields: id, name, salary.
+Insert employees into an ArrayList.
+Sort by salary (ascending order).
+Display top 3 highest paid employees.
+
+👉 Explanation:
+ Checks usage of ArrayList with objects, implementing compareTo() based on salary, 
+ and list traversal after sorting.
+ 
+ 
+Q3. Product Sorting by Price
+Create a Product class with fields: productId, productName, price.
+Store 5 products in an ArrayList.
+Sort by price (lowest to highest).
+Display sorted list.
+
+👉 Explanation:
+ Tests sorting real-world entities and demonstrates Comparable with numerical fields.
+ 
+ 
+Q4. Sort Players by Runs
+Create a Player class with name and runs.
+Store players in an ArrayList.
+Sort players in descending order of runs.
+
+👉 Explanation:
+ For descending order, you will return negative in compareTo() logic or reverse the sorting.
+ 
+Q5. Sort Books by Title (Alphabetically)
+Create a Book class with id, title, and author.
+Store books in an ArrayList.
+Sort them alphabetically by title.
+
+👉 Explanation:
+ This shows how to sort strings (lexicographically) using compareToIgnoreCase().
+ 
+ 
+Q6. Sort Employees by Name
+Create an Employee class with fields: id, name, and department.
+Store employees in an ArrayList.
+Sort them alphabetically by name.
+
+👉 Explanation:
+ Useful for practicing string sorting using compareTo().
