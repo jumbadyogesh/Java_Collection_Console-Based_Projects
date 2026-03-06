@@ -1,0 +1,16 @@
+
+Date: 7/9/2025
+======================================================================
+
+Q.1] WAP to store 5 values in Vector and arrange in ascending without using sort() methods of Collections 
+
+Q.2] WAP to store 10 values in Vector and find duplicated values
+
+Q.3] WAP to store 10 values in Vector and remove duplicated values 
+
+Q.4] WAP to create Player class and store player id,name ,run in Vector class and and sort
+	player data using its run as well as find the list of player whose run is same 
+ 
+Q.5] WAP to create class name as Product with id,name ,price and store 10 product detail 
+	vector and search product by using its id 
+
