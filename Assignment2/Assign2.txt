@@ -1,0 +1,16 @@
+
+
+Date: 8/9/2025
+======================================================================
+
+6] WAP to store 7 integer values in a Vector and display only the prime numbers.
+
+7] WAP to store 10 floating-point values in a Vector and calculate the average, maximum, and minimum.
+
+8] WAP to store 15 integer values in a Vector and separate even and odd numbers into two different Vectors.
+
+9] WAP to create an Employee class with id, name, and salary, store 10 employees in a Vector, and 
+	display employees with salary above a given amount.
+	
+10] WAP to create a Movie class with id, name, and rating, store 10 movies in a Vector, and display 
+	the movie(s) with the highest rating.
